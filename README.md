@@ -69,10 +69,11 @@
 
 ---
 
-If you want, I can now:
-- generate a matching **banner image** (simple, elegant) and provide the URL to paste at the top;  
-- automatically insert your top 3 repo links into the **Projects** section;  
-- add a short `README` badge for "Open to collaborate" or "Looking for internships" if you want to show availability.
+## ⚡ Fun Facts
+- I learn best by doing, breaking, and rebuilding.  
+- Taught thousands of beginners Web3 in simple language.  
+- Now repeating the journey in **Data Science & ML** — with the same passion.
 
-Which of these would you like next?
-::contentReference[oaicite:0]{index=0}
+---
+
+<p align="center">⭐ If you liked my profile, consider following — it motivates me to keep building!</p>
