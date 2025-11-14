@@ -1,61 +1,89 @@
-<h1 align="center">Hi, I'm Saifullah Khalid 👋</h1>
+<h1 align="center">Hi 👋, I'm Moeed Khan</h1>
 <p align="center">
-  <strong>Data Scientist | Data Analyst | Power BI Enthusiast</strong>
+  <strong>Aspiring Data Scientist & Machine Learning Learner</strong> — <em>Ex-Blockchain Builder</em>
 </p>
 
 ---
 
-## 🚀 About Me  
-- I’m **Saifullah Khalid**, a dedicated data enthusiast passionate about **Data Science, Analytics, and Visualization**.  
-- I love exploring patterns in data, deriving insights, and creating meaningful dashboards using **Python** and **Power BI**.  
-- My projects reflect **real-world problem-solving**, backed by analytical thinking and business understanding.  
-- Currently learning **advanced data modelling** and **visual storytelling**.  
-- *“Data never lies — it waits to be understood.”*  
+## 🚀 About Me
+
+- 🌱 Currently learning **Data Science, Machine Learning & Python**.  
+- 🔭 Previously worked ~**2–3 years in Blockchain** as:
+  - Community Manager & Community Builder  
+  - Smart Contract Developer (Solidity + Foundry)  
+  - Brand Ambassador at VanarChain  
+- 🌐 Built and managed a **7,000+ member Web3 community** across Discord & Facebook.  
+- 💬 Ask me about **Web3, Smart Contracts, Python, NumPy, Blockchain Adoption, and Community Growth**.
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
+
+**Data Science & ML**  
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </p>
 
----
-
-## 🎓 Professional Certifications  
+**Blockchain & Web Dev**  
 <p>
-  <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-FE8C01?style=for-the-badge&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-0E76A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Foundry-FE7A16?style=for-the-badge" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
+
+**Community & Soft Skills**  
+- Community Building (7k+ members) • Discord Management • Onboarding & Content • Brand Growth
 
 ---
 
-## 📊 GitHub Statistics  
+## 📂 Selected Projects
+> (Add links to 3–5 notable repos — pin them on your profile for quick access.)
+
+- **Project-Name-1** — short one-line: what it does (Python / Kaggle / ML)  
+- **Project-Name-2** — short one-line: (Solidity / Foundry / Smart Contract)  
+- **Project-Name-3** — short one-line: (Data visualizations / Power BI dashboards)
+
+*(To pin: go to your profile → Repositories → click the pin icon on the repos you want to highlight.)*
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saif-Shah-DataScientist&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Shah-DataScientist&theme=github-dark-blue" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoeedKhan-AMK&show_icons=true&theme=tokyonight" height="140" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeedKhan-AMK&layout=compact&theme=tokyonight" height="140" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📈 Top Skills Summary  
-✔ Exploratory Data Analysis (EDA)  
-✔ Data Cleaning & Preparation  
-✔ Machine Learning (Supervised & Unsupervised)  
-✔ Power BI Dashboarding  
-✔ Data Storytelling & Reporting  
-✔ SQL Querying & Data Extraction  
+## 🔗 Connect & Contact
 
----
-
-## 🌐 Connect With Me  
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/MoeedKhan-AMK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/themoeedkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/AKAChengizKhan" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
+  <a href="mailto:themoeedkhan@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+## ⚡ Currently
+- Transitioning from **Blockchain Development** to **Data Science & ML**.  
+- Building practical ML projects (Python, NumPy, Kaggle).  
+- Learning data cleaning, visualization, and model evaluation.
+
+---
+
+If you want, I can now:
+- generate a matching **banner image** (simple, elegant) and provide the URL to paste at the top;  
+- automatically insert your top 3 repo links into the **Projects** section;  
+- add a short `README` badge for "Open to collaborate" or "Looking for internships" if you want to show availability.
+
+Which of these would you like next?
+::contentReference[oaicite:0]{index=0}
