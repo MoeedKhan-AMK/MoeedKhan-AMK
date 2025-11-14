@@ -41,17 +41,6 @@
 
 ---
 
-## 📂 Selected Projects
-> (Add links to 3–5 notable repos — pin them on your profile for quick access.)
-
-- **Project-Name-1** — short one-line: what it does (Python / Kaggle / ML)  
-- **Project-Name-2** — short one-line: (Solidity / Foundry / Smart Contract)  
-- **Project-Name-3** — short one-line: (Data visualizations / Power BI dashboards)
-
-*(To pin: go to your profile → Repositories → click the pin icon on the repos you want to highlight.)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
