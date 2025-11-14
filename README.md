@@ -1,89 +1,92 @@
-<h1 align="center">Hi 👋, I'm Moeed Khan</h1>
+<h1 align="center">Hi, I'm Moeed Khan 👋</h1>
 <p align="center">
-  <strong>Aspiring Data Scientist & Machine Learning Learner</strong> — <em>Ex-Blockchain Builder</em>
+  <strong>Data Science & Machine Learning Learner | Ex-Web3 Community Builder | Aspiring Tech Generalist</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MoeedKhan-AMK?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Data%20Science-Learner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-3%20Years-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
+I'm a curious learner currently diving deep into **Python, Data Science, and Machine Learning**, transitioning after spending 2–3 years in the **Blockchain ecosystem** as a:
 
-- 🌱 Currently learning **Data Science, Machine Learning & Python**.  
-- 🔭 Previously worked ~**2–3 years in Blockchain** as:
-  - Community Manager & Community Builder  
-  - Smart Contract Developer (Solidity + Foundry)  
-  - Brand Ambassador at VanarChain  
-- 🌐 Built and managed a **7,000+ member Web3 community** across Discord & Facebook.  
-- 💬 Ask me about **Data Science, Machine Learning, Blockchain Adoption, and Community Growth**.
+- Community Manager & Community Builder  
+- Smart Contract Developer (Solidity + Foundry)  
+- Brand Ambassador @ VanarChain  
+- Web3 content researcher & educator  
+- Built and managed a **7,000+ member community** across Discord & Facebook
 
----
-
-## 🧰 Tech Stack
-
-**Data Science & ML**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</p>
-
-**Blockchain & Web Dev**  
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Foundry-FE7A16?style=for-the-badge" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</p>
-
-**Community & Soft Skills**  
-- Community Building (7k+ members) • Discord Management • Onboarding & Content • Brand Growth
+I enjoy understanding new technologies — and explaining them to people in simple, practical ways.
 
 ---
 
-## 📂 Selected Projects
-> (Add links to 3–5 notable repos — pin them on your profile for quick access.)
+## 🧠 What I'm Learning Right Now
+- Data Science foundations  
+- Machine Learning (Kaggle + Jupyter workflow)  
+- Numpy, Pandas, Matplotlib  
+- ML project structuring and model evaluation  
 
-- **Project-Name-1** — short one-line: what it does (Python / Kaggle / ML)  
-- **Project-Name-2** — short one-line: (Solidity / Foundry / Smart Contract)  
-- **Project-Name-3** — short one-line: (Data visualizations / Power BI dashboards)
+---
 
-*(To pin: go to your profile → Repositories → click the pin icon on the repos you want to highlight.)*
+## 🛠 Tech Stack & Tools
+
+### **Data Science**
+- Python  
+- Numpy  
+- Pandas  
+- Kaggle  
+- Jupyter Notebook  
+
+### **Blockchain & Web3**
+- Solidity  
+- Foundry  
+- Smart Contract Development  
+- Web3 Community Building  
+- Discord Server Systems  
+
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+
+### **Other Skills**
+- Community Management  
+- User onboarding & education  
+- Hosting AMAs & engagement sessions  
+- Brand communication  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoeedKhan-AMK&show_icons=true&theme=tokyonight" height="140" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeedKhan-AMK&layout=compact&theme=tokyonight" height="140" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MoeedKhan-AMK&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeedKhan-AMK&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MoeedKhan-AMK&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Connect & Contact
-
-<p>
-  <a href="https://github.com/MoeedKhan-AMK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/themoeedkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/AKAChengizKhan" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
-  <a href="mailto:themoeedkhan@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## 📬 Connect With Me
+- **GitHub:** https://github.com/MoeedKhan-AMK  
+- **LinkedIn:** https://linkedin.com/in/themoeedkhan  
+- **Twitter/X:** https://x.com/AKAChengizKhan  
+- **Email:** themoeedkhan@proton.me  
 
 ---
 
-## ⚡ Currently
-- Transitioning from **Blockchain Development** to **Data Science & ML**.  
-- Building practical ML projects (Python, NumPy, Kaggle).  
-- Learning data cleaning, visualization, and model evaluation.
+## ⚡ Fun Facts
+- I learn best by doing, breaking, and rebuilding.  
+- Taught thousands of beginners Web3 in simple language.  
+- Now repeating the journey in **Data Science & ML** — with the same passion.
 
 ---
 
-If you want, I can now:
-- generate a matching **banner image** (simple, elegant) and provide the URL to paste at the top;  
-- automatically insert your top 3 repo links into the **Projects** section;  
-- add a short `README` badge for "Open to collaborate" or "Looking for internships" if you want to show availability.
-
-Which of these would you like next?
-::contentReference[oaicite:0]{index=0}
+<p align="center">⭐ If you liked my profile, consider following — it motivates me to keep building!</p>
