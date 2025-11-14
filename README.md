@@ -13,7 +13,7 @@
   - Smart Contract Developer (Solidity + Foundry)  
   - Brand Ambassador at VanarChain  
 - 🌐 Built and managed a **7,000+ member Web3 community** across Discord & Facebook.  
-- 💬 Ask me about **Web3, Smart Contracts, Python, NumPy, Blockchain Adoption, and Community Growth**.
+- 💬 Ask me about **Data Science, Machine Learning,Blockchain Adoption, and Community Growth**.
 
 ---
 
