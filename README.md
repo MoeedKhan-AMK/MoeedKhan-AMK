@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Moeed Khan 👋</h1>
+<h1 align="center">Hi, I'm Moeed Khan </h1>
 <p align="center">
   <strong>Data Science & Machine Learning Learner | Ex-Web3 Community Builder | Aspiring Tech Generalist</strong>
 </p>
