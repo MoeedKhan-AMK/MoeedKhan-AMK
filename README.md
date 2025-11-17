@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Data Science & Machine Learning **.  
+- 🌱 Currently learning **Data Science & Machine Learning**.  
 - 🔭 Previously worked ~**2–3 years in Blockchain** as:
   - Community Manager & Community Builder  
   - Smart Contract Developer (Solidity + Foundry)  
