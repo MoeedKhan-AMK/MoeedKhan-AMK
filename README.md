@@ -66,7 +66,7 @@
 
 ## ⚡ Currently
 - Transitioning from **Blockchain Development** to **Data Science & ML**.  
-- Building practical ML projects (Python, NumPy, Kaggle).  
+- Building practical ML projects (Python, NumPy, Pandas, Matplotlib, Kaggle).  
 - Learning data cleaning, visualization, and model evaluation.
 
 ---
