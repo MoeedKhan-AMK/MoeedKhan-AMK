@@ -10,7 +10,7 @@
 🌱 Transitioning into Data Science & Machine Learning from a Blockchain background.
 📊 Strong interest in data analysis, insights generation, and real-world datasets.
 
-🛠️ Skills:
+🛠️ **Skills:**
 • Python (Pandas, NumPy)
 • Data Cleaning, EDA & Visualization
 • Time-Series & Economic Data Analysis
@@ -21,7 +21,7 @@ Smart Contract Developer (Solidity + Foundry),
 Community Manager, and Brand Ambassador at VanarChain.
 
 🌐 Built and managed a 7,000+ member Web3 community.
-💬 Happy to discuss Data, ML, Blockchain, and Community Growth.
+*💬 Happy to discuss Data, ML, Blockchain, and Community Growth.*
 ---
 
 ## 🧰 Tech Stack
