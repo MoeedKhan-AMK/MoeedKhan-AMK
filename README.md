@@ -7,14 +7,21 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Data Science & Machine Learning**.  
-- 🔭 Previously worked ~**2–3 years in Blockchain** as:
-  - Community Manager & Community Builder  
-  - Smart Contract Developer (Solidity + Foundry)  
-  - Brand Ambassador at VanarChain  
-- 🌐 Built and managed a **7,000+ member Web3 community** across Discord & Facebook.  
-- 💬 Ask me about **Data Science, Machine Learning,Blockchain Adoption, and Community Growth**.
+🌱 Transitioning into Data Science & Machine Learning from a Blockchain background.
+📊 Strong interest in data analysis, insights generation, and real-world datasets.
 
+🛠️ Skills:
+• Python (Pandas, NumPy)
+• Data Cleaning, EDA & Visualization
+• Time-Series & Economic Data Analysis
+• Beginner-level Machine Learning concepts
+
+🔭 Previously worked ~2–3 years in Blockchain:
+Smart Contract Developer (Solidity + Foundry),
+Community Manager, and Brand Ambassador at VanarChain.
+
+🌐 Built and managed a 7,000+ member Web3 community.
+💬 Happy to discuss Data, ML, Blockchain, and Community Growth.
 ---
 
 ## 🧰 Tech Stack
