@@ -76,7 +76,7 @@ Community Manager, and Brand Ambassador at VanarChain.
 
 ## ⚡ Currently
 - Transitioning from **Blockchain Development** to **Data Science & ML**.  
-- Building practical ML projects (Python, NumPy, Pandas, Matplotlib, Kaggle).  
+- Building practical projects (Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Jupyter, Kaggle).  
 - Learning data cleaning, visualization, and model evaluation.
 
 ---
