@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Moeed Khan</h1>
 <p align="center">
-  <strong>Aspiring Data Scientist & Machine Learning Learner</strong> — <em>Ex-Blockchain Builder</em>
+  <strong> Data Scientist </strong> 
 </p>
 
 ---
@@ -36,6 +36,7 @@ Community Manager, and Brand Ambassador at VanarChain.
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 
