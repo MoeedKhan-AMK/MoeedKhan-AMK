@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Moeed Khan</h1>
 <p align="center">
   <strong> Data Analyst </strong> 
+  |
   <strong> Data Scientist </strong> 
 </p>
 
